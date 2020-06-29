@@ -4,7 +4,7 @@ module.exports = {
     description: 'Headless WordPress with Gatsby FTW.',
     author: 'Scott and Justin',
     twitter: '@staticfuse',
-    siteUrl: `https://staticfuse.com`,
+    siteUrl: `https://optimistic-goldstine-a4f3aa.netlify.app`,
   },
   plugins: [
     {
@@ -14,7 +14,7 @@ module.exports = {
         mailChimpEndpoint: 0,
         dynamicComments: 1,
         gaTrackingId: 0,
-        wordPressUrl: `https://publishertheme.staticfuse.com`,
+        wordPressUrl: `https://gatsbyreact.wpengine.com`,
         blogURI: '/blog'
       },
     },
