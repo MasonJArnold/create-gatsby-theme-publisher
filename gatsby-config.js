@@ -4,7 +4,7 @@ module.exports = {
     description: 'Headless WordPress with Gatsby FTW.',
     author: 'Scott and Justin',
     twitter: '@staticfuse',
-    siteUrl: `https://optimistic-goldstine-a4f3aa.netlify.app`,
+    siteUrl: `https://gracious-nobel-d4d754.netlify.app`,
   },
   plugins: [
     {
